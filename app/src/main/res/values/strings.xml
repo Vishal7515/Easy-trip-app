@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">EasyTrip</string>
+
+    <string-array name="planets_array">
+
+        <item>Afganistan</item>
+        <item>Australia</item>
+        <item>Argentina</item>
+        <item>Bahrain</item>
+        <item>Bhutan</item>
+        <item>Canada</item>
+        <item>China</item>
+        <item>Denmark</item>
+        <item>Egypt</item>
+        <item>Finland</item>
+        <item>Ghana</item>
+        <item>Germany</item>
+        <item>Hungary</item>
+        <item>India</item>
+        <item>Indonesia</item>
+        <item>Jamaica</item>
+        <item>Kenya</item>
+        <item>Korea</item>
+        <item>Maldives</item>
+<item>Pakistan</item>
+        <item>Sweden</item>    </string-array>
+    <string name="title_activity_places">Tourist attractions near me</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
